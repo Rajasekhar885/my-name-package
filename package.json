@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {"url":"https://github.com/Rajasekhar885/my-name-package.git"},
+  "repository": {"url":"https://github.com/raaj885/my-name-package.git"},
   "author": "",
   "license": "ISC"
 }
